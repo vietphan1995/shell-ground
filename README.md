@@ -6,7 +6,7 @@
 
 Shell ground is a research project about new material can be built ground, brick, concrete block which contains a percentage of shell, snail with old material like cement, rock, iron …
 
-Shell ground reduces climate change problems like reducing rocks in rail track, street ground, house ground, reducing cement material in concrete block.
+Shell ground reduces climate change problems like reducing rocks in rail track, street ground, house ground, reducing cement material in concrete block, …
 
 ![image.png](image.png)
 

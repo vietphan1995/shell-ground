@@ -1,6 +1,8 @@
-# Shell Ground
+# shell-ground
 
-# Introduction
+## Shell Ground
+
+### Introduction
 
 [https://github.com/vietphan1995/shell-ground.git](https://github.com/vietphan1995/shell-ground.git)
 
@@ -10,7 +12,7 @@ Shell ground reduces climate change problems like reducing rocks in rail track, 
 
 ![image.png](image.png)
 
-[back to projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/Shell-Ground-1b25e832d6ee802ea95ecd69570cc329
+https://phantrungviet.notion.site/shell-ground-1b25e832d6ee802ea95ecd69570cc329

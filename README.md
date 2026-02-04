@@ -6,11 +6,15 @@
 
 [https://github.com/vietphan1995/shell-ground.git](https://github.com/vietphan1995/shell-ground.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:shell-ground_project&body=left_your_idea)
+
 Shell ground is a research project about new material can be built ground, brick, concrete block which contains a percentage of shell, snail with old material like cement, rock, iron …
 
 Shell ground reduces climate change problems like reducing rocks in rail track, street ground, house ground, reducing cement material in concrete block, friendly with animals …
 
 ![image.png](image.png)
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
